@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Saif+Ali;Web+Developer+%7C+Python+%7C+JS;Learning+Agentic+AI+right+now" alt="Typing SVG" />
+</p>
 
-<!--
-**Saifali-80/Saifali-80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 Hi there! I'm Saif Ali 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 About Me
+
+- 🎓 **Education:** B.A. Arts  
+- 🤖 **Currently Learning:** Agentic AI  
+- ⚙️ **Skills:** Web Development, Python, JavaScript  
+
+---
+
+## 📂 Featured Project
+
+### ✂️ Scissors & Scotch  
+🔗 **Live Demo:** [https://saifali-80.github.io/scissors-and-scotch/](https://saifali-80.github.io/scissors-and-scotch/)  
+
+> A creative web project — check it out!
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaftabsheikh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsaifali80.com)
+
+---
