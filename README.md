@@ -56,7 +56,7 @@
 
 ---
 
-## 🔥 Featured Project
+## 💻 Live Demos
 
 <p align="center">
   <a href="https://saifali-80.github.io/scissors-and-scotch/">
