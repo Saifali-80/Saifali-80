@@ -110,6 +110,22 @@
   <img src="https://img.shields.io/github/followers/Saifali-80?label=Followers&style=flat-square&color=blue" />
 </p>
 
+<!-- ☕ Buy Me a Coffee Section - No Phone Number, Pakistan Friendly -->
+  <div class="coffee-section">
+    <h2 align="center" style="font-family: Orbitron; margin-bottom: 0.8rem;">☕ Buy Me a Coffee</h2>
+    <p align="center">
+      <i>If you like my work and want to support me</i>
+    </p>
+    <p align="center" style="margin-top: 1rem;">
+      <a href="https://www.buymeacoffee.com/saifali80" target="_blank">
+        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+      </a>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Accepts-JazzCash%20%7C%20Easypaisa%20%7C%20Bank%20Transfer-006633?style=flat-square" alt="Pakistan Payment Methods" />
+    </p>
+  </div>
+
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
