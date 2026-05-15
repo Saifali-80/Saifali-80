@@ -7,7 +7,7 @@
 
 ### 📖 About Me
 
-- 🎓 **Education:** UnderGraduation in B.A. Arts,  
+- 🎓 **Education:** B.A. in Arts
 - 🤖 **Currently Learning:** Agentic AI  
 - ⚙️ **Skills:** Web Development, Python, JavaScript  
 - 📫 **How to reach me:** muhammadsaifali80.com (email)
