@@ -5,14 +5,12 @@
 
 ---
 
-## 👋 Hi there! I'm Saif Ali 
-
 ### 📖 About Me
 
-- 🎓 **Education:** B.A. Arts  
+- 🎓 **Education:** UnderGraduation in B.A. Arts,  
 - 🤖 **Currently Learning:** Agentic AI  
 - ⚙️ **Skills:** Web Development, Python, JavaScript  
-
+- 📫 **How to reach me:** muhammadsaifali80.com (email)
 ---
 
 ## 📂 Featured Project
@@ -28,5 +26,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaftabsheikh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsaifali80.com)
+
+## ❤️ Views & Followers
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saifali-80&color=blue)
+
+**Thanks for visiting!** 🎉
 
 ---
