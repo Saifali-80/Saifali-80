@@ -68,7 +68,9 @@
   </a>
 </p>
 
-<a href="https://saifi.pythonanywhere.com/">
+  <a href="https://saifi.pythonanywhere.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=SAIFI-S-ERP&theme=radical&border_radius=15&border_color=00D4FF" />
+  </a>
 </p>
 
 ---
