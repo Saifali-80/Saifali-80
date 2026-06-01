@@ -74,7 +74,6 @@
   </a>
 </p>
 
-<p align="center">
   <a href="https://saifali-80.github.io/clockface/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=clockface&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
