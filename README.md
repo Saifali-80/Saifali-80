@@ -21,13 +21,13 @@
 - ⚡ **Fun fact:** I code with ☕ & 🎧, quick learner & AI enthusiast
 - 📫 **Reach me:** muhammadsaifali80.com
 
-</tr>
+</td>
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif"/>
 
+</td>
 </tr>
-<tr>
 </table>
 
 ---
@@ -78,17 +78,24 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://saifali-80.github.io/zero-frame/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=zero-frame&theme=radical&border_radius=15&border_color=00D4FF" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saifali-80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifali-80&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifali-80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
+  <table align="center" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center"><strong>🎯 Total Contributions</strong><br><span style="font-size: 2rem;">31</span></td>
+      <td align="center"><strong>⚡ Current Streak</strong><br><span style="font-size: 2rem;">2 days</span><br><span style="font-size: 0.8rem;">May 14 - May 15</span></td>
+      <td align="center"><strong>🏆 Longest Streak</strong><br><span style="font-size: 2rem;">1 day</span><br><span style="font-size: 0.8rem;">Apr 13</span></td>
+    </tr>
+  </table>
 </p>
 
 ---
