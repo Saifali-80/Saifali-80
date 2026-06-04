@@ -21,13 +21,13 @@
 - ⚡ **Fun fact:** I code with ☕ & 🎧, quick learner & AI enthusiast
 - 📫 **Reach me:** muhammadsaifali80.com
 
-</td>
+</tr>
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif"/>
 
-</td>
 </tr>
+<tr>
 </table>
 
 ---
@@ -83,9 +83,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saifali-80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifali-80&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifali-80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
+</p>
 
 ---
 
