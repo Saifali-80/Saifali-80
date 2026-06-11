@@ -16,10 +16,10 @@
 <tr>
 <td width="60%">
 
-- 🎓 **Education:** B.A. in Arts (Completed)
-- 🤖 **Currently Learning:** Agentic AI, Web3, Autonomous Agents
-- ⚡ **Fun fact:** I code with ☕ & 🎧, quick learner & AI enthusiast
-- 📫 **Reach me:** muhammadsaifali80.com
+- 🎓 **Education:** B.A. in Arts (Completed)  
+- 🤖 **Currently Learning:** Agentic AI, Web3, Autonomous Agents  
+- ⚡ **Fun fact:** I code with ☕ & 🎧, quick learner & AI enthusiast  
+- 📫 **Reach me:** [muhammadsaifali80.com](https://muhammadsaifali80.com)
 
 </td>
 <td width="40%" align="center">
@@ -35,22 +35,17 @@
 ## 🚀 Tech Stack
 
 ### 💻 Web & Full‑Stack Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,figma,vercel,netlify&perline=8" />
 </p>
 
 ### 🧠 Agentic AI Stack (Learning & Building)
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,ai,agents,langchain,tensorflow,opencv,flask" />
 </p>
 
 <p align="center">
-  🤖 LLM agents • autonomous workflows • retrieval augmented generation • multi‑agent systems
-</p>
-
-<p align="center">
+  🤖 LLM agents • autonomous workflows • retrieval-augmented generation • multi-agent systems  
   🔥 Currently diving deep into CrewAI, AutoGen, and building intelligent agents
 </p>
 
@@ -114,7 +109,7 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🐍 GitHub Contributions Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saifali-80/Saifali-80/output/github-snake-dark.svg" />
@@ -130,10 +125,10 @@
   <a href="https://github.com/Saifali-80">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:muhammadsaifali80.com">
+  <a href="mailto:muhammadsaifali80@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/saifali80/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -146,19 +141,13 @@
 </p>
 
 <!-- ☕ Buy Me a Coffee Section -->
-<div class="coffee-section">
-  <h2 align="center" style="font-family: Orbitron; margin-bottom: 0.8rem;">☕ Buy Me a Coffee</h2>
-  <p align="center">
-    <i>If you like my work and want to support me</i>
-  </p>
-  <p align="center" style="margin-top: 1rem;">
-    <a href="https://www.buymeacoffee.com/saifali80" target="_blank">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Accepts-JazzCash%20%7C%20Easypaisa%20%7C%20Bank%20Transfer-006633?style=flat-square" alt="Pakistan Payment Methods" />
-  </p>
+<div align="center">
+  <h2 style="font-family: Orbitron; margin-bottom: 0.8rem;">☕ Buy Me a Coffee</h2>
+  <p><i>If you like my work and want to support me</i></p>
+  <a href="https://www.buymeacoffee.com/saifali80" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <p>Accepts: JazzCash | Easypaisa | Bank Transfer</p>
 </div>
 
 <!-- Footer Wave -->
