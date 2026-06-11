@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 <table align="center">
-</table>
+<tr>
 <td width="60%">
 
 - 🎓 **Education:** B.A. in Arts (Completed)
@@ -26,9 +26,9 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif"/>
 
-</tr>
-</tr>
-</tr>
+</td>
+</table>
+</table>
 
 ---
 
@@ -62,7 +62,7 @@
   <a href="https://saifali-80.github.io/Hi-Im-Saifi/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=Hi-Im-Saifi&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://saifali80.pythonanywhere.com/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=SAIFI-S&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
@@ -72,7 +72,7 @@
   <a href="https://saifi.pythonanywhere.com/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=SAIFI-S-ERP&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://saifali-80.github.io/zero-frame/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=zero-frame&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
@@ -82,7 +82,7 @@
   <a href="https://saifali-80.github.io/clockface/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=clockface&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://saifali-80.github.io/scissors-and-scotch/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=scissors-and-scotch&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
