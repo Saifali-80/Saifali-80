@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong style="font-size:1.2rem; color:#CBD5E1;">Full-Stack Developer | Agentic AI Builder</strong><br>
+  <strong style="font-size:1.2rem; color:#CBD5E1;">Front & Back-End Developer  | Agentic AI Builder</strong><br>
   <span style="display:inline-block; width:80px; height:4px; background:#00D4FF; border-radius:2px; margin-top:8px;"></span>
 </p>
 
