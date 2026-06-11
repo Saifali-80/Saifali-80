@@ -82,6 +82,10 @@
   <a href="https://saifali-80.github.io/zero-frame/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=zero-frame&theme=radical&border_radius=15&border_color=00D4FF" />
   </a>
+  
+  <a href="https://saifali-80.github.io/Hi-Im-Saifi/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=Hi-Im-Saifi&theme=radical&border_radius=15&border_color=00D4FF" />
+  </a>
 </p>
 
 ---
