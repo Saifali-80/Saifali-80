@@ -21,13 +21,13 @@
 - ⚡ **Fun fact:** I code with ☕ & 🎧, quick learner & AI enthusiast
 - 📫 **Reach me:** muhammadsaifali80.com
 
-</tr>
+</td>
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif"/>
 
 </td>
-</table>
+</tr>
 </table>
 
 ---
@@ -58,35 +58,14 @@
 
 ## 💻 Live Demos
 
-<p align="center">
-  <a href="https://saifali-80.github.io/Hi-Im-Saifi/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=Hi-Im-Saifi&theme=radical&border_radius=15&border_color=00D4FF" />
-  </a>
-  
-  <a href="https://saifali80.pythonanywhere.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=SAIFI-S&theme=radical&border_radius=15&border_color=00D4FF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://saifi.pythonanywhere.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=SAIFI-S-ERP&theme=radical&border_radius=15&border_color=00D4FF" />
-  </a>
-  
-  <a href="https://saifali-80.github.io/zero-frame/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=zero-frame&theme=radical&border_radius=15&border_color=00D4FF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://saifali-80.github.io/clockface/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=clockface&theme=radical&border_radius=15&border_color=00D4FF" />
-  </a>
-  
-  <a href="https://saifali-80.github.io/scissors-and-scotch/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifali-80&repo=scissors-and-scotch&theme=radical&border_radius=15&border_color=00D4FF" />
-  </a>
-</p>
+| # | Project | Description | Link |
+|---|---------|-------------|------|
+| 1 | **Hi-Im-Saifi** | Portfolio Website - Welcome to my corner of the web | [View Demo →](https://saifali-80.github.io/Hi-Im-Saifi/) |
+| 2 | **SAIFI-S** | Clothing E-commerce Platform | [View Demo →](https://saifali80.pythonanywhere.com/) |
+| 3 | **SAIFI-S-ERP** | Comprehensive ERP System for Business Management | [View Demo →](https://saifi.pythonanywhere.com/) |
+| 4 | **Zero Frame** | Typography Studio - Swiss-style agency portfolio | [View Demo →](https://saifali-80.github.io/zero-frame/) |
+| 5 | **Clockface Pro** | All-in-One Clock Dashboard with World Clock | [View Demo →](https://saifali-80.github.io/clockface/) |
+| 6 | **Scissors & Scotch** | Themed Website | [View Demo →](https://saifali-80.github.io/scissors-and-scotch/) |
 
 ---
 
@@ -135,20 +114,20 @@
 </p>
 
 <!-- ☕ Buy Me a Coffee Section - No Phone Number, Pakistan Friendly -->
-  <div class="coffee-section">
-    <h2 align="center" style="font-family: Orbitron; margin-bottom: 0.8rem;">☕ Buy Me a Coffee</h2>
-    <p align="center">
-      <i>If you like my work and want to support me</i>
-    </p>
-    <p align="center" style="margin-top: 1rem;">
-      <a href="https://www.buymeacoffee.com/saifali80" target="_blank">
-        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Accepts-JazzCash%20%7C%20Easypaisa%20%7C%20Bank%20Transfer-006633?style=flat-square" alt="Pakistan Payment Methods" />
-    </p>
-  </div>
+<div class="coffee-section">
+  <h2 align="center" style="font-family: Orbitron; margin-bottom: 0.8rem;">☕ Buy Me a Coffee</h2>
+  <p align="center">
+    <i>If you like my work and want to support me</i>
+  </p>
+  <p align="center" style="margin-top: 1rem;">
+    <a href="https://www.buymeacoffee.com/saifali80" target="_blank">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Accepts-JazzCash%20%7C%20Easypaisa%20%7C%20Bank%20Transfer-006633?style=flat-square" alt="Pakistan Payment Methods" />
+  </p>
+</div>
 
 <!-- Footer Wave -->
 <p align="center">
