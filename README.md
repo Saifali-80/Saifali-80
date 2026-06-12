@@ -26,6 +26,81 @@ const saifAli = {
 
 ---
 
+## `> ./terminal.sh`
+
+<!-- Terminal Bio - GitHub renders HTML, this works as a styled code block -->
+```
+┌─────────────────────────────────────────────────────┐
+│              visitor@saif-ali:~$                    │
+├─────────────────────────────────────────────────────┤
+│  $ whoami                                           │
+│  → Full-stack dev + AI builder from Pakistan 🇵🇰    │
+│                                                     │
+│  $ cat role.txt                                     │
+│  → Freelancer | MERN Developer | AI Agent Builder   │
+│                                                     │
+│  $ cat skills.txt                                   │
+│  → MERN · Python · LangChain · CrewAI · FastAPI     │
+│                                                     │
+│  $ ls projects/                                     │
+│  → saifi-erp/  zero-frame/  clockface/  saifi-s/   │
+│                                                     │
+│  $ echo $STATUS                                     │
+│  → 🟢 Open to Work — Available for freelance        │
+│                                                     │
+│  $ _                                                │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> skills --progress`
+
+### 💻 Web Development
+
+| Skill | Progress | Level |
+|:---|:---|:---|
+| HTML / CSS | `████████████████████` 95% | Expert |
+| JavaScript / TypeScript | `███████████████████░` 90% | Expert |
+| React / Next.js | `█████████████████░░░` 85% | Advanced |
+| Node.js / Express | `████████████████░░░░` 80% | Advanced |
+| MongoDB | `███████████████░░░░░` 75% | Advanced |
+| Tailwind CSS | `████████████████████` 90% | Expert |
+
+### 🤖 Agentic AI
+
+| Skill | Progress | Level |
+|:---|:---|:---|
+| Python | `███████████████░░░░░` 75% | Advanced |
+| FastAPI / Flask | `██████████████░░░░░░` 70% | Advanced |
+| LangChain | `████████████░░░░░░░░` 60% | Intermediate |
+| CrewAI / AutoGen | `██████████░░░░░░░░░░` 55% | Learning |
+| RAG Systems | `██████████░░░░░░░░░░` 50% | Learning |
+
+---
+
+## `> stats --dashboard`
+
+<div align="center">
+
+| 🚀 Projects | ⭐ Experience | 🤖 AI Stacks | ☕ Coffees | 📅 Status | 🌍 Location |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **6+** | **3+ Years** | **5+** | **∞** | **🟢 Open** | **Pakistan** |
+
+</div>
+
+<div align="center">
+
+![Projects](https://img.shields.io/badge/Live_Projects-6%2B-7C3AED?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-3%2B_Years-00D4FF?style=flat-square)
+![AI Stacks](https://img.shields.io/badge/AI_Stacks-5%2B-7C3AED?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-00C853?style=flat-square)
+![Mode](https://img.shields.io/badge/Mode-24%2F7_Learning-FF6B6B?style=flat-square)
+
+</div>
+
+---
+
 ## `> tech --stack`
 
 ### 💻 Web & Full-Stack
