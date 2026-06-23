@@ -61,6 +61,7 @@ const saifAli = {
 
 | Project | Description | Live |
 |:---|:---|:---:|
+| **NovaEnergy Pakistan** | Energy independence & solar solutions | [🔗 View](https://saifali-80.github.io/novaenergy-pakistan/) |    
 | **FIFA World Cup 2026** | World Cup event page | [🔗 View](https://saifali-80.github.io/fifa-world-cup-2026/) |
 | **Hi-Im-Saifi** | Personal portfolio site | [🔗 View](https://saifali-80.github.io/Hi-Im-Saifi/) |
 | **SAIFI-S** | Flask web app | [🔗 View](https://saifali80.pythonanywhere.com/) |
