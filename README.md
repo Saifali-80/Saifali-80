@@ -61,6 +61,7 @@ const saifAli = {
 
 | Project | Description | Live |
 |:---|:---|:---:|
+| **Sapphire** | Pakistani luxury fashion house redefining elegance through thoughtfully crafted collections | [🔗 View](https://sapphire-lyart-tau.vercel.app/) |
 | **NovaEnergy Pakistan** | Energy independence & solar solutions | [🔗 View](https://saifali-80.github.io/novaenergy-pakistan/) |    
 | **FIFA World Cup 2026** | World Cup event page | [🔗 View](https://saifali-80.github.io/fifa-world-cup-2026/) |
 | **Hi-Im-Saifi** | Personal portfolio site | [🔗 View](https://saifali-80.github.io/Hi-Im-Saifi/) |
